@@ -1,0 +1,10 @@
+{
+    "pages": [
+        {
+            "title": "First Posting", 
+            "text":"This is my first posting on my personal blog!", 
+            "tags": "Journal", 
+            "loc": "http://jinserk.github.io/first-posting.html"
+        }        
+    ]
+}

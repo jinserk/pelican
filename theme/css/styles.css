@@ -16,7 +16,8 @@ html { /* This stuff is for the sticky footer. */
 
 body {
     background-color:#fafafa;
-    font-family:'Open Sans';
+    /*font-family:'Open Sans';*/
+    font-family: Baskerville, Garamond, Georgia, 'DejaVu Serif', 'Times New Roman', Times, Serif;
     margin: 20px auto 100px auto; /* For sticky footer. */
 }
 
@@ -40,7 +41,8 @@ body {
 }
 
 .sitetitle {
-    font-family: 'Merriweather';
+    /*font-family: 'Merriweather';*/
+    font-family: Baskerville, Garamond, Georgia, 'DejaVu Serif', 'Times New Roman', Times, Serif;
     font-weight: 300;
     font-size: 4em;
     padding-left: 10px; /* Hack to dodge :hover issue. */
@@ -88,7 +90,8 @@ body {
 }
 
 .postsummary {
-    font-family: Merriweather;
+    /*font-family: Merriweather;*/
+    font-family: Baskerville, Garamond, Georgia, 'DejaVu Serif', 'Times New Roman', Times, Serif;
     font-weight: 300;
 }
 
@@ -222,7 +225,8 @@ sub {
 }
 
 .article pre {
-    font-family: 'Source Code Pro';
+    /*font-family: 'Source Code Pro';*/
+    font-family: 'Consolas', 'Andale Mono', 'Droid Sans Mono', 'DejaVu Sans Mono', Monaco, Courier, Monospace;
     font-size: .8em;
     margin: auto;
     padding: 1em;
@@ -230,7 +234,8 @@ sub {
 }
 
 .article code {
-    font-family: 'Source Code Pro';
+    /*font-family: 'Source Code Pro';*/
+    font-family: 'Consolas', 'Andale Mono', 'Droid Sans Mono', 'DejaVu Sans Mono', Monaco, Courier, Monospace;
     font-size: 1em;
 }
 

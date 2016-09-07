@@ -40,7 +40,8 @@ PLUGINS = ['gravatar', 'render_math']
 STATIC_PATHS = ['images', 'pdfs']
 THEME = "../pelican-themes/pure"
 
-COVER_IMG_URL = "main.jpg"
+COVER_IMG_URL = "https://jinserk.github.io/images/main.jpg"
+#PROFILE_IMAGE_URL = "main.jpg"
 
 # sidebar
 SOCIAL = (

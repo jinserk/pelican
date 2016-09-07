@@ -1,0 +1,65 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+AUTHOR = u'Jinserk Baik'
+SITENAME = u'ShinbeeNet'
+SITEURL = 'https://jinserk.github.io'
+
+PATH = 'content'
+
+TIMEZONE = 'US/Central'
+
+DEFAULT_LANG = u'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Blogroll
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
+
+# Social widget
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
+
+DEFAULT_PAGINATION = 1
+
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+
+# plugins
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = ['tag_cloud', 'tipue_search', 'render_math']
+
+# theme
+STATIC_PATHS = ['images', 'pdfs']
+THEME = "../pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME = "united"
+SHOW_ARTICLE_CATEGORY = True
+
+# tipue search
+DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search')
+
+# sidebar
+SOCIAL = (
+    ('email', 'mailto:jinserk.baik@gmail.com', 'envelope-square'),
+    ('linkedin', 'http://www.linkedin.com/in/jinserk'),
+    ('twitter', 'https://twitter.com/jinserk'),
+    ('facebook', 'https://www.facebook.com/jinserk'),
+    ('github', 'https://github.com/jinserk'),
+    ('stackoverflow', 'http://stackoverflow.com/users/2392124/jinserk', 'stack-overflow'),
+)
+DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+
+# license
+CC_LICENSE = "CC-BY-NC-ND"
+

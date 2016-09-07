@@ -37,7 +37,7 @@ PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['gravatar', 'render_math']
 
 # theme
-STATIC_PATHS = ['images', 'pdfs']
+#STATIC_PATHS = ['images', 'pdfs']
 THEME = "../pelican-themes/pure"
 
 COVER_IMG_URL = "images/main.jpg"

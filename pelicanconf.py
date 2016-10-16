@@ -33,12 +33,12 @@ AUTHOR_FEED_RSS = None
 #RELATIVE_URLS = True
 
 # plugins
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['gravatar', 'render_math']
 
 # theme
 STATIC_PATHS = ['images', 'pdfs']
-THEME = "../pelican-themes/pure"
+THEME = "../themes/pure"
 
 COVER_IMG_URL = "https://jinserk.github.io/images/main.jpg"
 #PROFILE_IMAGE_URL = "main.jpg"

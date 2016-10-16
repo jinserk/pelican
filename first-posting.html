@@ -1,91 +1,52 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Shinbee's Home, ">
-
-        <link rel="alternate"  href="http://jinserk.github.io/feeds/all.atom.xml" type="application/atom+xml" title="Shinbee's Home Full Atom Feed"/>
-
-        <title>First Posting // Shinbee's Home // </title>
+          <title>Shinbee's Home</title>
+        <meta charset="utf-8" />
+        <link href="http://jinserk.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Shinbee's Home Full Atom Feed" />
+        <link href="http://jinserk.github.io/feeds/journal.atom.xml" type="application/atom+xml" rel="alternate" title="Shinbee's Home Categories Atom Feed" />
 
 
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://jinserk.github.io/theme/css/pure.css">
-    <link rel="stylesheet" href="http://jinserk.github.io/theme/css/pygments.css">
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            $(".content").fitVids();
-        });
-    </script>
+    <meta name="tags" content="posting" />
+    <meta name="tags" content="blogging" />
+    <meta name="tags" content="pelican" />
+
 </head>
 
-<body>
-<div class="pure-g-r" id="layout">
-    <div class="sidebar sidebar-article pure-u">
-        <header class="header-article">
-            <hgroup>
-                <a href="http://jinserk.github.io/author/jinserk-baik.html" title="See posts by Jinserk Baik">
-                        <img class="avatar" alt="Jinserk Baik" src="https://www.gravatar.com/avatar/642bdf649aad1b51f5a507821a14814e">
-                </a>
-                <h2 class="article-info">Jinserk Baik</h2>
-                <small class="about-author"></small>
-                <h5>Published</h5>
-                <p>Mon 30 May 2016</p>
-                <a href="/">&larr;Home</a>
-            </hgroup>
-        </header>
-    </div>
-    <div class="pure-u">
-        <div class="content">
-            <section class="post">
-                <header class="post-header">
-                    <h1>First Posting</h1>
-                        <p class="post-meta">
-                            // under                                 <a class="post-category" href="http://jinserk.github.io/tag/posting.html">posting</a>
-                                <a class="post-category" href="http://jinserk.github.io/tag/blogging.html">blogging</a>
-                                <a class="post-category" href="http://jinserk.github.io/tag/pelican.html">pelican</a>
-                        </p>
-                </header>
-            </section>
-            <p>This is my first posting on my personal blog!</p>
-            <div class="hr"></div>
-            <a href="#" class="go-top">Go Top</a>
-<footer class="footer">
-    <p>&copy; Shinbee's Home &ndash;
-        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
-        for <a href="http://blog.getpelican.com/">Pelican</a>
-    </p>
-</footer>        </div>
-    </div>
-</div>
-    <script>
-        var $top = $('.go-top');
-
-        // Show or hide the sticky footer button
-        $(window).scroll(function() {
-            if ($(this).scrollTop() > 200) {
-                $top.fadeIn(200);
-            } else {
-                $top.fadeOut(200);
-            }
-        });
-
-        // Animate the scroll to top
-        $top.click(function(event) {
-            event.preventDefault();
-            $('html, body').animate({scrollTop: 0}, 300);
-        })
-
-        // Makes sure that the href="#" attached to the <a> elements
-        // don't scroll you back up the page.
-        $('body').on('click', 'a[href="#"]', function(event) {
-            event.preventDefault();
-        });
-    </script>
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://jinserk.github.io/">Shinbee's Home <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="http://jinserk.github.io/first-posting.html" rel="bookmark"
+         title="Permalink to First Posting">First Posting</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2016-05-30T22:51:00-05:00">
+      Mon 30 May 2016
+    </abbr>
+    <abbr class="modified" title="2016-05-30T22:51:00-05:00">
+      Mon 30 May 2016
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="http://jinserk.github.io/author/jinserk-baik.html">Jinserk Baik</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>This is my first posting on my personal blog!</p>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
 </body>
 </html>

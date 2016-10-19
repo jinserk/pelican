@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2016-10-19T11:13:49Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2016-08-11T23:02:00-05:00</updated><entry><title>이민 준비 (프롤로그)</title><link href="http://jinserk.github.io/immigrant-preparation-0.html" rel="alternate"></link><published>2016-08-11T23:02:00-05:00</published><updated>2016-08-11T23:02:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-08-07:immigrant-preparation-0.html</id><summary type="html">&lt;p&gt;미국으로 건너온지 정확히 한달째. 이제 이곳에서의 생활도 안정되었다.&lt;/p&gt;
+&lt;p&gt;어차피 지금은 백수 생활이라 남는게 시간이다. 이주하는 과정에서 누적된 피로가 어느 정도 회복된 지금,
+조금씩 지난 과정을 정리해 두는 것이 좋겠다는 생각이 든다. 이유는 크게 두가지다. 하나는, 나중에
+내 아이들이 이 기록을 보고 부모가 이주해 온 과정을 조금이라도 이해해주었으면 좋겠다. 둘째는, 누군가에게
+조금이라도 이 기록이 도움이 되길 바래서다. 물론 개개인의 사정이 다르니 얼마나 도움이 될지는 잘 모르겠다.&lt;/p&gt;
+&lt;h2&gt;계기&lt;/h2&gt;
+&lt;p&gt;이민을 생각하게 된 계기는 매우 단순했다. 2014년 4월, &lt;a href="https://namu.wiki/w/%EC%B2%AD%ED%95%B4%EC%A7%84%ED%95%B4%EC%9A%B4%20%EC%84%B8%EC%9B%94%ED%98%B8%20%EC%B9%A8%EB%AA%B0%20%EC%82%AC%EA%B3%A0"&gt;세월호 사고&lt;/a&gt;
+가 터졌다. 당연히 전원 구조될 줄 알았던 그 사고에서 수학여행을 가던 꽃다운 고등학생 250명을 포함해
+300여명이 죽었다. 사고에서 사망자가 나오는 것은 있을 수 있는 일이다. 하지만 배가 뒤집히기도 전에
+구조선이 몇 쳑이나 도착해 있었음에도, 해양경찰은 승객보다 승무원을 먼저 구조해놓고 나머지
+승객들은 그 큰 배가 뒤집혀 가라앉을 때까지 쳐다보고만 있었다. 꽃다운 아이들과 무고한 시민들의 목숨은
+정치나 경제적 이익 앞에 가차없이 버려졌다. 세월호 사고는 처음부터 끝까지 완벽한 인재(人災)였다.&lt;/p&gt;
+&lt;p&gt;안그래도 첫딸이 곧 출산을 앞두고 있어 한국의 육아와 교육 시스템에 대한 걱정이 크던 참이었다.
+세월호 사고의 일련의 진행 상황을 보며 내가 발딛고 사는 사회의 투명성과 공공기관의 신뢰를
+완전히 잃어버렸다. 물론, 그 전부터도 멍청한 4대강 프로젝트나 해외 에너지 개발 프로젝트, 
+제2롯데월드 건축 허가 과정, 종편 허가 문제, 각종 언론사 낙하산 임명 등 중요한 이슈의 의견 수렴 과정에서
+실망이 누적되어 오긴 했다. 그러나 지금껏 살아오면서 막연한 호기심으로나 다른 나라에서 사는 삶을
+꿈꾸어 보았지, 실제로 내가 태어난 나라의 시스템을 못믿어 어디론가 가야겠다고 생각한 것은
+세월호 사고가 처음이었다. &lt;/p&gt;
+&lt;p&gt;그 외에 몇가지 생각해 본 점이 있다. 순서없이 나열해보면 아래와 같다.&lt;/p&gt;
+&lt;h3&gt;비전&lt;/h3&gt;</summary><category term="이민"></category><category term="결심"></category><category term="계기"></category><category term="NIW"></category></entry><entry><title>First Posting</title><link href="http://jinserk.github.io/first-posting.html" rel="alternate"></link><published>2016-05-30T22:51:00-05:00</published><updated>2016-05-30T22:51:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-05-30:first-posting.html</id><summary type="html">&lt;p&gt;This is my first posting on my personal blog!&lt;/p&gt;</summary><category term="posting"></category><category term="blogging"></category><category term="pelican"></category></entry></feed>

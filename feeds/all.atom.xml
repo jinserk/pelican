@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2016-08-11T23:02:00-05:00</updated><entry><title>이민 준비 (프롤로그)</title><link href="http://jinserk.github.io/immigrant-preparation-0.html" rel="alternate"></link><published>2016-08-11T23:02:00-05:00</published><updated>2016-08-11T23:02:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-08-07:immigrant-preparation-0.html</id><summary type="html">&lt;p&gt;미국으로 건너온지 정확히 한달째. 이제 이곳에서의 생활도 안정되었다.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/all.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2016-10-11T23:02:00-05:00</updated><entry><title>이민 준비 (프롤로그)</title><link href="http://jinserk.github.io/immigrant-preparation-0.html" rel="alternate"></link><published>2016-10-11T23:02:00-05:00</published><updated>2016-10-11T23:02:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-08-07:immigrant-preparation-0.html</id><summary type="html">&lt;p&gt;미국으로 건너온지 석달이 넘었다. 이제 이곳에서의 생활도 웬만큼 안정되었다.&lt;/p&gt;
 &lt;p&gt;어차피 지금은 백수 생활이라 남는게 시간이다. 이주하는 과정에서 누적된 피로가 어느 정도 회복된 지금,
 조금씩 지난 과정을 정리해 두는 것이 좋겠다는 생각이 든다. 이유는 크게 두가지다. 하나는, 나중에
 내 아이들이 이 기록을 보고 부모가 이주해 온 과정을 조금이라도 이해해주었으면 좋겠다. 둘째는, 누군가에게
-조금이라도 이 기록이 도움이 되길 바래서다. 물론 개개인의 사정이 다르니 얼마나 도움이 될지는 잘 모르겠다.&lt;/p&gt;
-&lt;h2&gt;계기&lt;/h2&gt;
+조금이라도 이 기록이 도움이 되길 바래서다. 물론 개개인의 사정이 다르니 그저 참고 정도만 되면 좋겠다. &lt;/p&gt;
+&lt;h2&gt;공간&lt;/h2&gt;
+&lt;p&gt;솔직하게 말해, 꽤 오래전부터 외국 생활에 대한 동경이 있었다. 
+좁은 국토에서 복닥거리고 모여 사는 것에 지치고, 더 좁은 지역에 고층 아파트를 쌓아올려 놓고 상상하기 힘든 주거비를 들여야 살 수 있는 현실이 불편했다.
+공간이 주는 스트레스는 간단히 무시할 만한 일이 아니다.
+실제로, 양계장에서는 닭들이 서로 스트레스를 받아 공격하는 것을 피하기 위해 적절한 공간이 필수라고 한다.&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;/p&gt;
+&lt;h2&gt;정치&lt;/h2&gt;
 &lt;p&gt;이민을 생각하게 된 계기는 매우 단순했다. 2014년 4월, &lt;a href="https://namu.wiki/w/%EC%B2%AD%ED%95%B4%EC%A7%84%ED%95%B4%EC%9A%B4%20%EC%84%B8%EC%9B%94%ED%98%B8%20%EC%B9%A8%EB%AA%B0%20%EC%82%AC%EA%B3%A0"&gt;세월호 사고&lt;/a&gt;
 가 터졌다. 당연히 전원 구조될 줄 알았던 그 사고에서 수학여행을 가던 꽃다운 고등학생 250명을 포함해
 300여명이 죽었다. 사고에서 사망자가 나오는 것은 있을 수 있는 일이다. 하지만 배가 뒤집히기도 전에
@@ -19,4 +24,12 @@
 꿈꾸어 보았지, 실제로 내가 태어난 나라의 시스템을 못믿어 어디론가 가야겠다고 생각한 것은
 세월호 사고가 처음이었다. &lt;/p&gt;
 &lt;p&gt;그 외에 몇가지 생각해 본 점이 있다. 순서없이 나열해보면 아래와 같다.&lt;/p&gt;
-&lt;h3&gt;비전&lt;/h3&gt;</summary><category term="이민"></category><category term="결심"></category><category term="계기"></category><category term="NIW"></category></entry><entry><title>First Posting</title><link href="http://jinserk.github.io/first-posting.html" rel="alternate"></link><published>2016-05-30T22:51:00-05:00</published><updated>2016-05-30T22:51:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-05-30:first-posting.html</id><summary type="html">&lt;p&gt;This is my first posting on my personal blog!&lt;/p&gt;</summary><category term="posting"></category><category term="blogging"></category><category term="pelican"></category></entry></feed>
+&lt;h3&gt;비전&lt;/h3&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;http://news.zum.com/articles/33580938?c=04&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="이민"></category><category term="결심"></category><category term="계기"></category><category term="NIW"></category></entry><entry><title>First Posting</title><link href="http://jinserk.github.io/first-posting.html" rel="alternate"></link><published>2016-05-30T22:51:00-05:00</published><updated>2016-05-30T22:51:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-05-30:first-posting.html</id><summary type="html">&lt;p&gt;This is my first posting on my personal blog!&lt;/p&gt;</summary><category term="posting"></category><category term="blogging"></category><category term="pelican"></category></entry></feed>

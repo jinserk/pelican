@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'US/Central'
 
-DEFAULT_LANG = u'utf8'
+DEFAULT_LANG = u'ko'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

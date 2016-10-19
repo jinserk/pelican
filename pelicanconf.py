@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'US/Central'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'utf8'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -50,6 +50,6 @@ SOCIAL = (
     ('twitter', 'https://twitter.com/jinserk'),
     ('facebook', 'https://www.facebook.com/jinserk'),
     ('github', 'https://github.com/jinserk'),
-    ('stack-overflow', 'http://stackoverflow.com/users/2392124/jinserk'),
+    #('stack-overflow', 'http://stackoverflow.com/users/2392124/jinserk'),
 )
 

@@ -9,4 +9,4 @@ git commit -a || exit 1;
 
 echo -e "\ngit push"
 git push || exit 1;
-git subtree push --prefix=output output master || exit 1;
+git subtree push --prefix=output jinserk master || exit 1;

@@ -39,7 +39,7 @@ PLUGINS = ['gravatar', 'render_math']
 
 # theme
 STATIC_PATHS = ['images', 'pdfs']
-THEME = "../theme"
+THEME = "../themes/pure"
 
 COVER_IMG_URL = "https://jinserk.github.io/images/main.jpg"
 #PROFILE_IMAGE_URL = "main.jpg"

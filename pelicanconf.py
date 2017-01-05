@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jinserk Baik'
 SITENAME = u"Shinbee's Home"
-SITEURL = 'https://jinserk.github.io'
+#SITEURL = 'https://jinserk.github.io'
 
 PATH = 'content'
 
@@ -46,7 +46,7 @@ COVER_IMG_URL = "https://jinserk.github.io/images/main.jpg"
 
 # sidebar
 SOCIAL = (
-    ('envelope-o', 'mailto:jinserk.baik@gmail.com'),
+    ('mailto', 'mailto:jinserk.baik@gmail.com'),
     ('linkedin', 'http://www.linkedin.com/in/jinserk'),
     ('twitter', 'https://twitter.com/jinserk'),
     ('facebook', 'https://www.facebook.com/jinserk'),

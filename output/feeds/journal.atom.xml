@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/journal.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2016-05-30T22:51:00-05:00</updated><entry><title>First Posting</title><link href="http://jinserk.github.io/first-posting.html" rel="alternate"></link><published>2016-05-30T22:51:00-05:00</published><updated>2016-05-30T22:51:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-05-30:first-posting.html</id><summary type="html">&lt;p&gt;This is my first posting on my personal blog!&lt;/p&gt;</summary><category term="posting"></category><category term="blogging"></category><category term="pelican"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shinbee's Home</title><link href="http://jinserk.github.io/" rel="alternate"></link><link href="http://jinserk.github.io/feeds/journal.atom.xml" rel="self"></link><id>http://jinserk.github.io/</id><updated>2017-01-05T02:57:00-06:00</updated><entry><title>새해 단상</title><link href="http://jinserk.github.io/new-year.html" rel="alternate"></link><published>2017-01-05T02:57:00-06:00</published><updated>2017-01-05T02:57:00-06:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2017-01-05:new-year.html</id><summary type="html">&lt;p&gt;새해가 되고도 벌써 4일이 지났다.&lt;/p&gt;
+&lt;p&gt;이민이란 새로운 삶에 대한 도전이기도 하지만, 동시에 지금까지 살아온 삶에 대한 단절이기도 하다.
+단순히 사회의 익숙함 정도나 언어 같은 문제가 아니라, 인간관계며 삶의 가치관, 생활 패턴 전반에
+걸친 모든 면의 단절이기도 하다. &lt;/p&gt;
+&lt;p&gt;아직 직장을 찾지 못해 집에서 머물다보니, 매일 눈을 뜨면 '오늘 하루는 무엇을 해야 하나' 가 
+과제다. 육아와 생활 유지를 위한 최소한의 활동을 배제하고, 삶에서 "하루" 라는 시간에 가치를
+부여하기란 녹녹한 일이 아니다. 전체적인 방향이라도 정해지면 조금 더 가치있는 to do list 를 
+만들기가 쉬울지도 모르겠지만, 지금은 그 방향 자체를 찾고 있는 터라 더욱 그렇다. 나만 그런 것도
+아니고, 와이프 역시 비슷한 고민을 하는 것 같다. 이민의 전제조건은 반드시 방향이 정해져야 한다.
+무조건적으로 삶의 터전을 옮기는 것은 무모하다. 비단 이민만이 그렇지는 않을터이지만, 삶의 큰 
+단층을 극복해야만 하는 이민자에겐 방향성이 더 중요해진다는 뜻이다.&lt;/p&gt;
+&lt;p&gt;직장을 구하는 것이 가장 시급하게 해결해야 하는 과제지만, 사회의 룰이나 경험이 전무하고 언어
+장벽까지 있는 외노자에게 좋은 직장이 주어질 리 없으니, 그래도 괜찮은 직장을 구하기에 필요한
+경험과 사전 지식을 쌓기 위해 짧게 교육을 받는 것을 고려중이다. 여전히, 목적지를 두고 크게
+돌아간다는 조급함과 답답함이 있다. 하지만 지금까지 살아오면서, 모든 것은 순리가 있다는 것을
+어느정도 이해하게 되었다. 순리가 어긋나면 어딘가 빈 곳이 생기고, 그 빈틈은 아무리 시간이 지나도
+잘 메꿔지지 않고 오히려 나중에 문제가 되는 경우도 있다. &lt;/p&gt;
+&lt;p&gt;여기 간단히 새해 단상과 함께 올해 resoultion 을 적어두기로 한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;인터뷰 준비 및 구직&lt;/li&gt;
+&lt;li&gt;GRE 또는 GMAT 시험 보기&lt;/li&gt;
+&lt;li&gt;일주일에 한권씩 책 읽기&lt;/li&gt;
+&lt;li&gt;아이들 더 사랑해주기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;간만에 글을 쓰니 문장을 만들기가 참 힘이 든다. 늙었나 보다.&lt;/p&gt;</summary><category term="2017"></category></entry><entry><title>First Posting</title><link href="http://jinserk.github.io/first-posting.html" rel="alternate"></link><published>2016-05-30T22:51:00-05:00</published><updated>2016-05-30T22:51:00-05:00</updated><author><name>Jinserk Baik</name></author><id>tag:jinserk.github.io,2016-05-30:first-posting.html</id><summary type="html">&lt;p&gt;This is my first posting on my personal blog!&lt;/p&gt;</summary><category term="posting"></category><category term="blogging"></category><category term="pelican"></category></entry></feed>
